@@ -1,3 +1,4 @@
+#Program to Find sum of even number upto n.
 n=int(input("Enter even no upto which you want to add:"));
 i=2
 sum=0
